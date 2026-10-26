@@ -60,6 +60,11 @@ RISC-V32I-5-Stage-Pipelined-Processor/
     ├── rtl/
     └── tb/
 ```
+## Author
+
+**Brijesh Ahirwar**  
+Electronics and Communication Engineering (ECE)  
+Indian Institute of Technology (BHU), Varanasi
 
 ## Reference
 
